@@ -1,0 +1,9 @@
+python-dotenv
+python-telegram-bot
+requests
+aiohttp
+langchain
+langchain-core
+ollama
+yfinance
+geopy
