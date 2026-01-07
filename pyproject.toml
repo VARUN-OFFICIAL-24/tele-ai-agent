@@ -1,0 +1,19 @@
+[project]
+name = "tele-ai-agent"
+version = "0.1.0"
+description = "An LLM-powered Telegram assistant with tool integration."
+authors = [{ name = "Your Name" }]
+readme = "README.md"
+requires-python = ">=3.9"
+
+dependencies = [
+  "python-dotenv",
+  "python-telegram-bot",
+  "requests",
+  "aiohttp",
+  "langchain",
+  "langchain-core",
+  "ollama",
+  "yfinance",
+  "geopy"
+]
