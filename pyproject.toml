@@ -1,10 +1,12 @@
 [project]
 name = "tele-ai-agent"
 version = "0.1.0"
-description = "An LLM-powered Telegram assistant with tool integration."
-authors = [{ name = "Your Name" }]
+description = "An LLM-powered Telegram assistant with real-time tool integrations like weather and stock data."
 readme = "README.md"
 requires-python = ">=3.9"
+authors = [
+  {name = "P. VARUN"}
+]
 
 dependencies = [
   "python-dotenv",
